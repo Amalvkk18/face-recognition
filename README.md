@@ -1,0 +1,1 @@
+ The face_recognition library provides a face_locations() method that locates all faces in an image or video frame and gives their bounding box coordinates. These bounding box coordinates specify the location and dimensions of each identified face.
